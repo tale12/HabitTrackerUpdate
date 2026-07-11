@@ -1,7 +1,7 @@
 {
   "minVersion": "1.0.0",
   "latestVersion": "1.1.0",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "updateUrl": "https://appgallery.huawei.com/app/detail?id=C200000000000000",
   "updateMessage": "发现新版本，更新以获得更好的体验"
 }
